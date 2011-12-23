@@ -2,7 +2,7 @@
 Contributors: kubenstein
 Author URI: https://github.com/kubenstein
 Requires at least: 3.2.1
-Tested up to: 3.2.1
+Tested up to: 3.3
 
 Tags: admin, tinymce, fontsize, size, font, editor
 
