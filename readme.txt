@@ -19,7 +19,7 @@ Add a font size dropdown menu to tinyMCE content editor
 
 == Frequently Asked Questions ==
 
-For problems visits the [Plugin GitHub](https://github.com/kubenstein/wp-editor-fontsize)
+For more information visit [Plugin GitHub](https://github.com/kubenstein/wp-editor-fontsize)
 
 == Screenshots ==
 
